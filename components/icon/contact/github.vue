@@ -4,7 +4,7 @@
 		width="32"
 		height="32"
 		viewBox="0 0 32 32"
-		class="h-5 w-5"
+		class="h-6 w-6"
 	>
 		<path
 			fill="currentColor"
