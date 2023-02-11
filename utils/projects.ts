@@ -94,4 +94,39 @@ export const getProjects = (): Project[] => [
 			height: 1049,
 		},
 	},
+	{
+		title: 'Codyx',
+		description:
+			'Web-app, where you can create your recommendations, such as Movie, Anime, Manga, etc.',
+		image: {
+			url: 'https://media.graphassets.com/lVq0SDZwTWGMXmiquZeF',
+			height: 1049,
+			width: 1679,
+		},
+		repository: 'https://github.com/n0xZ/noxy-codyx',
+		siteUrl: 'https://noxy-codyx.vercel.app/',
+	},
+	{
+		title: 'Nexy',
+		description: 'Website, where you can create your projects',
+		image: {
+			width: 1679,
+			height: 1049,
+			url: 'https://media.graphassets.com/uMHN7oqgRsy7kyiHNE9u',
+		},
+		repository: 'https://github.com/n0xZ/nexy/',
+		siteUrl: 'https://noxy-nexy.netlify.app/',
+	},
+
+	{
+		title: 'Moden',
+		description: 'Website where you can get an weather based your located',
+		image: {
+			url: 'https://media.graphassets.com/Xlfwzms6SAiLLOEDQmhw',
+			width: 1679,
+			height: 1049,
+		},
+		repository: 'https://github.com/n0xZ/moden',
+		siteUrl: 'https://noxy-moden.netlify.app/',
+	},
 ]
