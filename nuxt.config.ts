@@ -20,9 +20,6 @@ export default defineNuxtConfig({
 	app: {
 		head: {
 			title: 'Gonzalo Molina',
-			link: [
-				{ rel: 'icon', type: 'image/svg+xml', href: '~/assets/svg/nuxt-icon.svg' },
-			],
 		},
 	},
 })
