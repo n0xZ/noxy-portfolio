@@ -32,6 +32,7 @@
 							} group flex w-full items-center rounded-md px-2 py-2 text-sm space-x-2 `"
 							to="/about"
 						>
+							<IconContactMe />
 							<span>About me</span></NuxtLink
 						>
 					</MenuItem>
@@ -42,7 +43,8 @@
 							} group flex w-full items-center rounded-md px-2 py-2 text-sm space-x-2 `"
 							to="/contact"
 						>
-							Contact me</NuxtLink
+							<IconContactMedia />
+							<span>Contact me</span></NuxtLink
 						>
 					</MenuItem>
 					<MenuItem v-slot="active">
@@ -52,7 +54,8 @@
 							} group flex w-full items-center rounded-md px-2 py-2 text-sm space-x-2 `"
 							to="/projects"
 						>
-							Projects</NuxtLink
+							<IconContactProject />
+							<span>Projects</span></NuxtLink
 						>
 					</MenuItem>
 
@@ -65,6 +68,7 @@
 						>
 							<IconSun />
 							<IconMoon />
+							<span>Change theme</span>
 						</button>
 					</MenuItem>
 				</div>
