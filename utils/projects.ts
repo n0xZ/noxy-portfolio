@@ -30,7 +30,7 @@ export const getProjects = (): Project[] => [
 		repository: 'https://github.com/n0xZ/react-quiz',
 		siteUrl: 'https://quiz-react-typescript.vercel.app/',
 		image: {
-			url: 'https://media.graphassets.com/JxgcbnnQStq6ghF9RFuR',
+			url: 'https://media.graphassets.com/yjsXlHGFSxmFWAdarx5U',
 			width: 1679,
 			height: 1049,
 		},
